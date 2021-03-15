@@ -21,6 +21,7 @@ It was a challenge getting the "COUNTIF" formulas correct. Simple things like  (
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+
 There was a steady rise in Successful kickstarters between January and June (peaking around 11), then there was a sharp drop; no Month exceeding 5 successful Kickstarters for the rest of the year. 
 
 - What can you conclude about the Outcomes based on Goals?
@@ -28,6 +29,7 @@ There was a steady rise in Successful kickstarters between January and June (pea
 The kickstarters with Lower goals had a good success rate (80%), then there was a steady decline to a 20% success rate For the kickstarters that had $25000 to $29999 as a goal. The success rate then went back up to about 65% for fundraising raising $35000 to $44999 , followed by another sharp decline.
 
 - What are some limitations of this dataset?
+
 The dataset could contain more information. We could perhaps keep track of the donations of each Backer. We know that the pledged / Backer gives us the average donation for each Kickstarter, but it'd be interesting to derive other stats like the Minimum /Maximum donation of a Backer, etc. 
 
 - What are some other possible tables and/or graphs that we could create?
